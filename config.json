@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippinguender",
+        "uuid": 17239124,
+        "checksum": "htsxm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
